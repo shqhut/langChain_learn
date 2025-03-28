@@ -1,0 +1,6402 @@
+[
+    {
+      "id": "2G5",
+      "fourCounterCode": "2G5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "宝鸡开元",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0917-3903631",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.369751,
+        "lng": 107.150826,
+        "area": "",
+        "province": "陕西省",
+        "city": "宝鸡市",
+        "county": "渭滨区",
+        "address": "陕西省宝鸡市渭滨区经二路154号  开元商城一楼"
+      },
+      "position": [
+        107.150826,
+        34.369751
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OP0",
+      "fourCounterCode": "OP0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-66535499",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.909107,
+        "lng": 116.358246,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "西城区",
+        "address": "复兴门内大街101号"
+      },
+      "position": [
+        116.358246,
+        39.909107
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y30",
+      "fourCounterCode": "Y30",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京汉光",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-66024392",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.90947,
+        "lng": 116.374382,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "西城区",
+        "address": "西单北大街176号汉光百货一层圣罗兰专柜"
+      },
+      "position": [
+        116.374382,
+        39.90947
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "BC5",
+      "fourCounterCode": "BC5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京合生汇",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-87776989",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.899883,
+        "lng": 116.486778,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "朝阳区",
+        "address": "西大望路21号朝阳合生汇一层化妆品圣罗兰"
+      },
+      "position": [
+        116.486778,
+        39.899883
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "DX5",
+      "fourCounterCode": "DX5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京荟聚",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-60203083",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.788078,
+        "lng": 116.326347,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "大兴区",
+        "address": "欣宁街15号院1号楼1层01D87"
+      },
+      "position": [
+        116.326347,
+        39.788078
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LI0",
+      "fourCounterCode": "LI0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京三里屯",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.939957,
+        "lng": 116.460396,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "朝阳区",
+        "address": "三里屯太古里南区一层S8-19"
+      },
+      "position": [
+        116.460396,
+        39.939957
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YK0",
+      "fourCounterCode": "YK0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京SKP",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-65915173",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.91016,
+        "lng": 116.479073,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "朝阳区",
+        "address": "建国路87号北京SKP一层圣罗兰"
+      },
+      "position": [
+        116.479073,
+        39.91016
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "ED5",
+      "fourCounterCode": "ED5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-65120209",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.913754,
+        "lng": 116.410126,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "东城区",
+        "address": "王府井大街255号王府井百货大楼一层化妆品圣罗兰"
+      },
+      "position": [
+        116.410126,
+        39.913754
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O10",
+      "fourCounterCode": "O10",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京新世界",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-67015815",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.898579,
+        "lng": 116.418114,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "东城区",
+        "address": "崇文门外大街3号新世界百货一层圣罗兰"
+      },
+      "position": [
+        116.418114,
+        39.898579
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "8U5",
+      "fourCounterCode": "8U5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京长楹天街",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-81031634",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.924763,
+        "lng": 116.599098,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "朝阳区",
+        "address": "北京市朝阳区常通路1号院"
+      },
+      "position": [
+        116.599098,
+        39.924763
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "8S5",
+      "fourCounterCode": "8S5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "北京朝阳大悦城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "010-80932191",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 0.011109,
+        "lng": 0.002059,
+        "area": "",
+        "province": "北京",
+        "city": "北京市",
+        "county": "朝阳区",
+        "address": "北京市朝阳区朝阳北路101号楼大悦城1层(01)101内1F-47A/47B¶"
+      },
+      "position": [
+        0.002059,
+        0.011109
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "7L5",
+      "fourCounterCode": "7L5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "蚌埠银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0552-7187535",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.916901,
+        "lng": 117.368439,
+        "area": "",
+        "province": "安徽省",
+        "city": "蚌埠市",
+        "county": "蚌山区",
+        "address": "安徽省蚌埠市蚌山区东海大道4000号银泰百货一楼圣罗兰化妆品专柜"
+      },
+      "position": [
+        117.368439,
+        32.916901
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YU0",
+      "fourCounterCode": "YU0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长春欧亚",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0431-85569953",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.870441,
+        "lng": 125.299973,
+        "area": "",
+        "province": "吉林省",
+        "city": "长春市",
+        "county": "朝阳区",
+        "address": "工农大路1128号欧亚商都一层圣罗兰"
+      },
+      "position": [
+        125.299973,
+        43.870441
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "RZ0",
+      "fourCounterCode": "RZ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长春欧亚卖场",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0431-85534566",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.843716,
+        "lng": 125.246826,
+        "area": "",
+        "province": "吉林省",
+        "city": "长春市",
+        "county": "朝阳区",
+        "address": "开运街5178号欧亚卖场 一楼 圣罗兰"
+      },
+      "position": [
+        125.246826,
+        43.843716
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "6Q5",
+      "fourCounterCode": "6Q5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长春万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0431-80690578",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.821869,
+        "lng": 125.310089,
+        "area": "",
+        "province": "吉林省",
+        "city": "长春市",
+        "county": "南关区",
+        "address": "长春市南关区人民大街3388号华润置地长春万象城B125号商铺¶"
+      },
+      "position": [
+        125.310089,
+        43.821869
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "875",
+      "fourCounterCode": "875",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "常德友谊",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0736-7222393",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.039591,
+        "lng": 111.699501,
+        "area": "",
+        "province": "湖南省",
+        "city": "常德市",
+        "county": "武陵区",
+        "address": "朗州路友阿国际商场圣罗兰专柜"
+      },
+      "position": [
+        111.699501,
+        29.039591
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "795",
+      "fourCounterCode": "795",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "常熟八佰伴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0512-52991183",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.643515,
+        "lng": 120.755714,
+        "area": "",
+        "province": "江苏省",
+        "city": "苏州市",
+        "county": "常熟市",
+        "address": "方塔东街9号楼八佰伴一楼YSL专柜"
+      },
+      "position": [
+        120.755714,
+        31.643515
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LO0",
+      "fourCounterCode": "LO0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "常州泰富",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0519-88866356",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.784369,
+        "lng": 119.962189,
+        "area": "",
+        "province": "江苏省",
+        "city": "常州市",
+        "county": "钟楼区",
+        "address": "延陵西路95/97号"
+      },
+      "position": [
+        119.962189,
+        31.784369
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "6H5",
+      "fourCounterCode": "6H5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "常州武进吾悦",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0519-85986687",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.727079,
+        "lng": 119.942818,
+        "area": "",
+        "province": "江苏省",
+        "city": "常州市",
+        "county": "武进区",
+        "address": "江苏省常州市武进区湖塘镇武宜北路19号一楼YSL圣罗兰美妆¶"
+      },
+      "position": [
+        119.942818,
+        31.727079
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "CK5",
+      "fourCounterCode": "CK5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "常州新世纪",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0519-88867796",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.785973,
+        "lng": 119.962151,
+        "area": "",
+        "province": "江苏省",
+        "city": "常州市",
+        "county": "钟楼区",
+        "address": "北大街2-8号"
+      },
+      "position": [
+        119.962151,
+        31.785973
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "1J5",
+      "fourCounterCode": "1J5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都大悦城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-67380508",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.626034,
+        "lng": 104.011215,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "武侯区",
+        "address": "四川成都市武侯区大悦路大悦城一楼YSL专柜"
+      },
+      "position": [
+        104.011215,
+        30.626034
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "5M5",
+      "fourCounterCode": "5M5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都IFS",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-86138767",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.654818,
+        "lng": 104.081131,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "锦江区",
+        "address": "四川省成都市红星路三段1号成都国际金融中心商场地下一层LG125号商铺"
+      },
+      "position": [
+        104.081131,
+        30.654818
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LT0",
+      "fourCounterCode": "LT0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都群光",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-65000139",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.659916,
+        "lng": 104.083397,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "锦江区",
+        "address": "东大街春熙路南段8号"
+      },
+      "position": [
+        104.083397,
+        30.659916
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "9U5",
+      "fourCounterCode": "9U5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都仁和新城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.587372,
+        "lng": 104.051125,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "高新区",
+        "address": "四川省成都市高新区府城大道西段505号仁和新城购物中心1楼化妆品151号YSL圣罗兰专柜"
+      },
+      "position": [
+        104.051125,
+        30.587372
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YN5",
+      "fourCounterCode": "YN5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都SKP",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-60831786",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.566681,
+        "lng": 104.06514,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "高新区",
+        "address": "四川省成都市高新区天府大道北段1700号成都SKP"
+      },
+      "position": [
+        104.06514,
+        30.566681
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YV0",
+      "fourCounterCode": "YV0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都太古里",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-81479056",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.652559,
+        "lng": 104.08239,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "锦江区",
+        "address": "中纱帽街8号太古里第一层1252b商铺"
+      },
+      "position": [
+        104.08239,
+        30.652559
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "6M5",
+      "fourCounterCode": "6M5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都太古里2店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-61989205",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.653187,
+        "lng": 104.083733,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "锦江区",
+        "address": "四川省成都市锦江区远洋太古里负一层 M079 圣罗兰美妆专卖店"
+      },
+      "position": [
+        104.083733,
+        30.653187
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "5L5",
+      "fourCounterCode": "5L5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-83550332",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.649664,
+        "lng": 104.115379,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "成华区",
+        "address": "四川省成都市成华区双庆路8号成都万象城A馆L1层170号"
+      },
+      "position": [
+        104.115379,
+        30.649664
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y70",
+      "fourCounterCode": "Y70",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-86203121",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.658581,
+        "lng": 104.079674,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "锦江区",
+        "address": "总府路15号成都王府井1层YSL柜台"
+      },
+      "position": [
+        104.079674,
+        30.658581
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YW0",
+      "fourCounterCode": "YW0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都王府井科华店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-85284168",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.616949,
+        "lng": 104.077293,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "武侯区",
+        "address": "科华中路2号王府井购物中心1层YSL柜台"
+      },
+      "position": [
+        104.077293,
+        30.616949
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YJ5",
+      "fourCounterCode": "YJ5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都银泰城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "028-86950319",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.541391,
+        "lng": 104.058136,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "武侯区",
+        "address": "益州大道中段1999号"
+      },
+      "position": [
+        104.058136,
+        30.541391
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "TU0",
+      "fourCounterCode": "TU0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "成都银泰in99",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.584866,
+        "lng": 104.069633,
+        "area": "",
+        "province": "四川省",
+        "city": "成都市",
+        "county": "双流区",
+        "address": "四川省成都市高新区天府大道北段1199号2F L204"
+      },
+      "position": [
+        104.069633,
+        30.584866
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "6V5",
+      "fourCounterCode": "6V5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "重庆百货大楼",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "023-63519082",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.556929,
+        "lng": 106.576431,
+        "area": "",
+        "province": "重庆",
+        "city": "重庆市",
+        "county": "渝中区",
+        "address": "重庆市渝中区民权路2号重百大楼一楼YSL"
+      },
+      "position": [
+        106.576431,
+        29.556929
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LH0",
+      "fourCounterCode": "LH0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "重庆北城天街",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "023-67953727",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.583374,
+        "lng": 106.539757,
+        "area": "",
+        "province": "重庆",
+        "city": "重庆市",
+        "county": "江北区",
+        "address": "北城天街6、8号龙湖北城X馆-LH-006B商铺"
+      },
+      "position": [
+        106.539757,
+        29.583374
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "DT5",
+      "fourCounterCode": "DT5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "重庆万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "023-68187726",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.51536,
+        "lng": 106.517624,
+        "area": "",
+        "province": "重庆",
+        "city": "重庆市",
+        "county": "九龙坡区",
+        "address": "重庆九龙坡区华润中心万象城中区LG188号YSL圣罗兰"
+      },
+      "position": [
+        106.517624,
+        29.51536
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OQ0",
+      "fourCounterCode": "OQ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "重庆新光",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "023-67949545",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.597824,
+        "lng": 106.529762,
+        "area": "",
+        "province": "重庆",
+        "city": "重庆市",
+        "county": "渝北区",
+        "address": "龙溪街道红锦大道89号"
+      },
+      "position": [
+        106.529762,
+        29.597824
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YT0",
+      "fourCounterCode": "YT0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "重庆新世纪",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "023-67635998",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.57325,
+        "lng": 106.532494,
+        "area": "",
+        "province": "重庆",
+        "city": "重庆市",
+        "county": "江北区",
+        "address": "观音桥步行街7号"
+      },
+      "position": [
+        106.532494,
+        29.57325
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "QR0",
+      "fourCounterCode": "QR0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "大连恒隆",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 38.906948,
+        "lng": 121.609131,
+        "area": "",
+        "province": "辽宁省",
+        "city": "大连市",
+        "county": "西岗区",
+        "address": "辽宁省大连市西岗区五四路66号负一层22-23"
+      },
+      "position": [
+        121.609131,
+        38.906948
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O00",
+      "fourCounterCode": "O00",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "大连麦凯乐",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0411-82557609",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 38.916309,
+        "lng": 121.635483,
+        "area": "",
+        "province": "辽宁省",
+        "city": "大连市",
+        "county": "中山区",
+        "address": "青泥街57号"
+      },
+      "position": [
+        121.635483,
+        38.916309
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "2F5",
+      "fourCounterCode": "2F5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "大同百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "15635231915",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 40.072525,
+        "lng": 113.30117,
+        "area": "",
+        "province": "山西省",
+        "city": "大同市",
+        "county": "平城区",
+        "address": "大同市平城区永泰南路凯德世家广场百盛购物中心1F  YSL专柜"
+      },
+      "position": [
+        113.30117,
+        40.072525
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "855",
+      "fourCounterCode": "855",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "德阳洋洋",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0838-2309339",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.127069,
+        "lng": 104.388641,
+        "area": "",
+        "province": "四川省",
+        "city": "德阳市",
+        "county": "旌阳区",
+        "address": "四川省德阳市旌阳区旌阳街道洋洋百货南街店1F圣罗兰专柜"
+      },
+      "position": [
+        104.388641,
+        31.127069
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "D55",
+      "fourCounterCode": "D55",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "东莞国贸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0769-89885676",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.018709,
+        "lng": 113.768326,
+        "area": "",
+        "province": "广东省",
+        "city": "东莞市",
+        "county": "南山区",
+        "address": "东城街道鸿福东路1号民盈国贸城5号楼L1层L1008铺位"
+      },
+      "position": [
+        113.768326,
+        23.018709
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "GZ5",
+      "fourCounterCode": "GZ5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "佛山王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0757-26486656",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.010914,
+        "lng": 113.101074,
+        "area": "",
+        "province": "广东省",
+        "city": "佛山市",
+        "county": "禅城区",
+        "address": "佛山大道中81号A4区L1048号铺"
+      },
+      "position": [
+        113.101074,
+        23.010914
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "H45",
+      "fourCounterCode": "H45",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "福州爱琴海",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0591-83212980",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.041103,
+        "lng": 119.279274,
+        "area": "",
+        "province": "福建省",
+        "city": "福州市",
+        "county": "仓山区",
+        "address": "浦上大道198号爱琴海购物公园 1F YSL柜台"
+      },
+      "position": [
+        119.279274,
+        26.041103
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OR0",
+      "fourCounterCode": "OR0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "福州东百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0591-87323519",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.085358,
+        "lng": 119.299255,
+        "area": "",
+        "province": "福建省",
+        "city": "福州市",
+        "county": "鼓楼区",
+        "address": "八一七北路84号东百中心A馆一楼YSL柜台"
+      },
+      "position": [
+        119.299255,
+        26.085358
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "MS5",
+      "fourCounterCode": "MS5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "福州万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0591-83627716",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.074854,
+        "lng": 119.278137,
+        "area": "",
+        "province": "福建省",
+        "city": "福州市",
+        "county": "鼓楼区",
+        "address": "洪山镇洪山园路5号福州万象城B1层B102+B103号商铺"
+      },
+      "position": [
+        119.278137,
+        26.074854
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "FL5",
+      "fourCounterCode": "FL5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "广州广百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "020-33972875",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.123665,
+        "lng": 113.26828,
+        "area": "",
+        "province": "广东省",
+        "city": "广州市",
+        "county": "越秀区",
+        "address": "北京路295号"
+      },
+      "position": [
+        113.26828,
+        23.123665
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YS5",
+      "fourCounterCode": "YS5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "广州k11",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "020-62693499",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.117985,
+        "lng": 113.325958,
+        "area": "",
+        "province": "广东省",
+        "city": "广州市",
+        "county": "天河区",
+        "address": "珠江新城6号广州K11购物艺术中心B2层"
+      },
+      "position": [
+        113.325958,
+        23.117985
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OO0",
+      "fourCounterCode": "OO0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "广州天河城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "020-38813657",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.13176,
+        "lng": 113.322952,
+        "area": "",
+        "province": "广东省",
+        "city": "广州市",
+        "county": "天河区",
+        "address": "天河路208号天河城购物中心第一层119A号商铺"
+      },
+      "position": [
+        113.322952,
+        23.13176
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YQ0",
+      "fourCounterCode": "YQ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "广州新鸿基",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "020-22033023",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.132082,
+        "lng": 113.324669,
+        "area": "",
+        "province": "广东省",
+        "city": "广州市",
+        "county": "天河区",
+        "address": "天河路212,214,216,218,220号自编212号地上一层L101B房"
+      },
+      "position": [
+        113.324669,
+        23.132082
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y80",
+      "fourCounterCode": "Y80",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "贵阳国贸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0851-86835720",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.58457,
+        "lng": 106.711678,
+        "area": "",
+        "province": "贵州省",
+        "city": "贵阳市",
+        "county": "云岩区",
+        "address": "中华中路1号国贸广场1F化妆品区YSL"
+      },
+      "position": [
+        106.711678,
+        26.58457
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LR0",
+      "fourCounterCode": "LR0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "贵阳亨特",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.581329,
+        "lng": 106.726814,
+        "area": "",
+        "province": "贵州省",
+        "city": "贵阳市",
+        "county": "南明区",
+        "address": "机杨路18号亨特城市广场139（负2层1A）号商铺"
+      },
+      "position": [
+        106.726814,
+        26.581329
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OM0",
+      "fourCounterCode": "OM0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "贵阳南国花锦",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0851-85521280",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.582161,
+        "lng": 106.712669,
+        "area": "",
+        "province": "贵州省",
+        "city": "贵阳市",
+        "county": "云岩区",
+        "address": "中华路130号南国花锦1楼YSL"
+      },
+      "position": [
+        106.712669,
+        26.582161
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YG5",
+      "fourCounterCode": "YG5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "贵阳万象汇",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0851-84102080",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 26.620041,
+        "lng": 106.61319,
+        "area": "",
+        "province": "贵州省",
+        "city": "贵阳市",
+        "county": "观山湖区",
+        "address": "金阳南路万象汇1楼YSL专柜"
+      },
+      "position": [
+        106.61319,
+        26.620041
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O30",
+      "fourCounterCode": "O30",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "哈尔滨松雷",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0451-58827506",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 45.759201,
+        "lng": 126.644127,
+        "area": "",
+        "province": "黑龙江省",
+        "city": "哈尔滨市",
+        "county": "南岗区",
+        "address": "东大直街329号一楼YSL圣罗兰"
+      },
+      "position": [
+        126.644127,
+        45.759201
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YC0",
+      "fourCounterCode": "YC0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "哈尔滨远大",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0451-87537516",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 45.749512,
+        "lng": 126.66172,
+        "area": "",
+        "province": "黑龙江省",
+        "city": "哈尔滨市",
+        "county": "南岗区",
+        "address": "果戈里大街378号远大购物中心1层圣罗兰专柜"
+      },
+      "position": [
+        126.66172,
+        45.749512
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "5O5",
+      "fourCounterCode": "5O5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "海宁银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.499369,
+        "lng": 120.69294,
+        "area": "",
+        "province": "浙江省",
+        "city": "海宁市",
+        "county": "海宁市",
+        "address": "浙江省海宁市海洲街道海昌南路365号海宁银泰城1F131"
+      },
+      "position": [
+        120.69294,
+        30.499369
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "U95",
+      "fourCounterCode": "U95",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "邯郸新世纪",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0310-3019368",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.610458,
+        "lng": 114.494675,
+        "area": "",
+        "province": "河北省",
+        "city": "邯郸市",
+        "county": "丛台区",
+        "address": "河北省邯郸市丛台区中华北大街29号1楼YSL专柜"
+      },
+      "position": [
+        114.494675,
+        36.610458
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y55",
+      "fourCounterCode": "Y55",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "杭州滨江银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-87707650",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.201359,
+        "lng": 120.222115,
+        "area": "",
+        "province": "浙江省",
+        "city": "杭州市",
+        "county": "滨江区",
+        "address": "西兴街道启智街515号杭州银泰滨江店1楼"
+      },
+      "position": [
+        120.222115,
+        30.201359
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LV0",
+      "fourCounterCode": "LV0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "杭州in77",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-81996865",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.253115,
+        "lng": 120.163345,
+        "area": "",
+        "province": "浙江省",
+        "city": "杭州市",
+        "county": "上城区",
+        "address": "延安路湖滨银泰in77D区YSL柜台"
+      },
+      "position": [
+        120.163345,
+        30.253115
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LB0",
+      "fourCounterCode": "LB0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "杭州万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-86528272",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.2582,
+        "lng": 120.221542,
+        "area": "",
+        "province": "浙江省",
+        "city": "杭州市",
+        "county": "江干区",
+        "address": "富春路701号杭州万象城第B1层B111号商铺"
+      },
+      "position": [
+        120.221542,
+        30.2582
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y20",
+      "fourCounterCode": "Y20",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "杭州银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-85836088",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.26837,
+        "lng": 120.163544,
+        "area": "",
+        "province": "浙江省",
+        "city": "杭州市",
+        "county": "下城区",
+        "address": "延安路530号银泰百货1楼圣罗兰"
+      },
+      "position": [
+        120.163544,
+        30.26837
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "AW5",
+      "fourCounterCode": "AW5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "合肥滨湖银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0551-62632852",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.71954,
+        "lng": 117.308105,
+        "area": "",
+        "province": "安徽省",
+        "city": "合肥市",
+        "county": "包河区",
+        "address": "云谷路1718号滨湖银泰城1F L1069"
+      },
+      "position": [
+        117.308105,
+        31.71954
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OT0",
+      "fourCounterCode": "OT0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "合肥银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0551-65205660",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.86282,
+        "lng": 117.291939,
+        "area": "",
+        "province": "安徽省",
+        "city": "合肥市",
+        "county": "庐阳区",
+        "address": "长江中路98号银泰中心1层"
+      },
+      "position": [
+        117.291939,
+        31.86282
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "JU5",
+      "fourCounterCode": "JU5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "合肥之心城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-87707650",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.853884,
+        "lng": 117.257385,
+        "area": "",
+        "province": "安徽省",
+        "city": "合肥市",
+        "county": "蜀山区",
+        "address": "安徽省合肥市蜀山区长江西路189号之心城购物中心"
+      },
+      "position": [
+        117.257385,
+        31.853884
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "BB5",
+      "fourCounterCode": "BB5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "呼和浩特振华",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0471-3903723",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 40.824177,
+        "lng": 111.675163,
+        "area": "",
+        "province": "内蒙古自治区",
+        "city": "呼和浩特市",
+        "county": "回民区",
+        "address": "锡林郭勒北路29号振华广场一层化妆品圣罗兰"
+      },
+      "position": [
+        111.675163,
+        40.824177
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "655",
+      "fourCounterCode": "655",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "湖州浙北",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0572-2113390",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.866819,
+        "lng": 120.098602,
+        "area": "",
+        "province": "浙江省",
+        "city": "湖州市",
+        "county": "吴兴区",
+        "address": "南街697号浙北购物中心一层圣罗兰专柜"
+      },
+      "position": [
+        120.098602,
+        30.866819
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OG0",
+      "fourCounterCode": "OG0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "淮安新亚",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0517-83521669",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 33.597099,
+        "lng": 119.027153,
+        "area": "",
+        "province": "江苏省",
+        "city": "淮安市",
+        "county": "清江浦区",
+        "address": "淮海东路142号淮安新亚 圣罗兰专柜"
+      },
+      "position": [
+        119.027153,
+        33.597099
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YQ5",
+      "fourCounterCode": "YQ5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "惠州华贸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0752-2226373",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 23.10387,
+        "lng": 114.414459,
+        "area": "",
+        "province": "广东省",
+        "city": "惠州市",
+        "county": "惠城区",
+        "address": "惠州市惠城区江北文昌一路9号华贸天地一楼圣罗兰"
+      },
+      "position": [
+        114.414459,
+        23.10387
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y75",
+      "fourCounterCode": "Y75",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "济南恒隆",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0531-86929921",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.663795,
+        "lng": 117.02372,
+        "area": "",
+        "province": "山东省",
+        "city": "济南市",
+        "county": "历下区",
+        "address": "泉城路188号恒隆广场一楼176号"
+      },
+      "position": [
+        117.02372,
+        36.663795
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "CP5",
+      "fourCounterCode": "CP5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "济南银座",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0531-86078465",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.665596,
+        "lng": 117.036903,
+        "area": "",
+        "province": "山东省",
+        "city": "济南市",
+        "county": "历下区",
+        "address": "泺源大街银座商城一楼"
+      },
+      "position": [
+        117.036903,
+        36.665596
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "C25",
+      "fourCounterCode": "C25",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "嘉兴八佰伴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0573-83530280",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.758596,
+        "lng": 120.732697,
+        "area": "",
+        "province": "浙江省",
+        "city": "嘉兴市",
+        "county": "南湖区",
+        "address": "中山路1360号"
+      },
+      "position": [
+        120.732697,
+        30.758596
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "4D5",
+      "fourCounterCode": "4D5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "江门大融城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "020-3109684",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.611567,
+        "lng": 113.081917,
+        "area": "",
+        "province": "广东省",
+        "city": "江门市",
+        "county": "蓬江区",
+        "address": "江门大融城1楼1F054-2 ysl专柜¶"
+      },
+      "position": [
+        113.081917,
+        22.611567
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YC5",
+      "fourCounterCode": "YC5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "金华第一百货",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0579-82509629",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.102354,
+        "lng": 119.654243,
+        "area": "",
+        "province": "浙江省",
+        "city": "金华市",
+        "county": "婺城区",
+        "address": "西市街159号 第一百货（江北店）"
+      },
+      "position": [
+        119.654243,
+        29.102354
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YN0",
+      "fourCounterCode": "YN0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆明百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0871-63622643",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 25.035101,
+        "lng": 102.710648,
+        "area": "",
+        "province": "云南省",
+        "city": "昆明市",
+        "county": "五华区",
+        "address": "三市街6号柏联百盛F1圣罗兰专柜"
+      },
+      "position": [
+        102.710648,
+        25.035101
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y65",
+      "fourCounterCode": "Y65",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆明春之眼",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 25.035501,
+        "lng": 102.718048,
+        "area": "",
+        "province": "云南省",
+        "city": "昆明市",
+        "county": "盘龙区",
+        "address": "云南省昆明市盘龙区尚义街1号金俊广场负一楼圣罗兰专柜"
+      },
+      "position": [
+        102.718048,
+        25.035501
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "2E5",
+      "fourCounterCode": "2E5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆明恒隆",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0871-67173228",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 25.03686,
+        "lng": 102.720116,
+        "area": "",
+        "province": "云南省",
+        "city": "昆明市",
+        "county": "盘龙区",
+        "address": "云南省昆明市盘龙区东风东路21号昆明恒隆广场B1层B128A号YSL"
+      },
+      "position": [
+        102.720116,
+        25.03686
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LW0",
+      "fourCounterCode": "LW0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆明顺城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0871-63326067",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 25.035101,
+        "lng": 102.706413,
+        "area": "",
+        "province": "云南省",
+        "city": "昆明市",
+        "county": "五华区",
+        "address": "顺城街顺城商铺E区单元1层E1-4号"
+      },
+      "position": [
+        102.706413,
+        25.035101
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "JL0",
+      "fourCounterCode": "JL0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆明万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 25.030434,
+        "lng": 102.735085,
+        "area": "",
+        "province": "云南省",
+        "city": "昆明市",
+        "county": "官渡区",
+        "address": "云南省昆明市官渡区环城南路1号昆明万象城一楼YSL柜台"
+      },
+      "position": [
+        102.735085,
+        25.030434
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "XH5",
+      "fourCounterCode": "XH5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "昆山金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0512-50326708",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.37578,
+        "lng": 120.973045,
+        "area": "",
+        "province": "江苏省",
+        "city": "苏州市",
+        "county": "昆山市开发区",
+        "address": "珠江中路199号金鹰国际购物中心1楼"
+      },
+      "position": [
+        120.973045,
+        31.37578
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YH5",
+      "fourCounterCode": "YH5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "兰州国芳",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0931-8760236",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.05188,
+        "lng": 103.844177,
+        "area": "",
+        "province": "甘肃省",
+        "city": "兰州市",
+        "county": "城关区",
+        "address": "东方红广场东侧"
+      },
+      "position": [
+        103.844177,
+        36.05188
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LP0",
+      "fourCounterCode": "LP0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "兰州中心",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0931-2654109",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.074348,
+        "lng": 103.782013,
+        "area": "",
+        "province": "甘肃省",
+        "city": "兰州市",
+        "county": "七里河区",
+        "address": "西津西路兰州中心一层圣罗兰专柜"
+      },
+      "position": [
+        103.782013,
+        36.074348
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y45",
+      "fourCounterCode": "Y45",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "柳州工贸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0772-2870083",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 24.312254,
+        "lng": 109.411621,
+        "area": "",
+        "province": "广西壮族自治区",
+        "city": "柳州市",
+        "county": "城中区",
+        "address": "龙城路2号"
+      },
+      "position": [
+        109.411621,
+        24.312254
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "ZF5",
+      "fourCounterCode": "ZF5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "洛阳大卫天地",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0379-61125536",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.669361,
+        "lng": 112.435822,
+        "area": "",
+        "province": "河南省",
+        "city": "洛阳市",
+        "county": "西工区",
+        "address": "河南省洛阳市西工区中州中路421号一楼化妆品圣罗兰专柜"
+      },
+      "position": [
+        112.435822,
+        34.669361
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "1L5",
+      "fourCounterCode": "1L5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "绵阳百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0816-2889223",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.46339,
+        "lng": 104.74572,
+        "area": "",
+        "province": "四川省",
+        "city": "绵阳市",
+        "county": "涪城区",
+        "address": "四川省绵阳市涪城区临园路东段68号"
+      },
+      "position": [
+        104.74572,
+        31.46339
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "CQ5",
+      "fourCounterCode": "CQ5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南昌八一百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0791-86751896",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.682064,
+        "lng": 115.89756,
+        "area": "",
+        "province": "江西省",
+        "city": "南昌市",
+        "county": "东湖区",
+        "address": "象山北路24号百盛B馆一楼YSL柜台"
+      },
+      "position": [
+        115.89756,
+        28.682064
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OC0",
+      "fourCounterCode": "OC0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南昌百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0791-86731543",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.675961,
+        "lng": 115.891945,
+        "area": "",
+        "province": "江西省",
+        "city": "南昌市",
+        "county": "东湖区",
+        "address": "中山路177号百盛1楼圣罗兰专柜"
+      },
+      "position": [
+        115.891945,
+        28.675961
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YP5",
+      "fourCounterCode": "YP5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南昌T16",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0791—83838681",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.706455,
+        "lng": 115.874146,
+        "area": "",
+        "province": "江西省",
+        "city": "南昌市",
+        "county": "红谷滩区",
+        "address": "庐山南大道369号铜锣湾T16购物中心 YSL圣罗兰"
+      },
+      "position": [
+        115.874146,
+        28.706455
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "255",
+      "fourCounterCode": "255",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南昌武广",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0791-87311107",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.674141,
+        "lng": 115.909187,
+        "area": "",
+        "province": "江西省",
+        "city": "南昌市",
+        "county": "东湖区",
+        "address": "南昌市东湖区北京西路69号（武商广场）"
+      },
+      "position": [
+        115.909187,
+        28.674141
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "8B5",
+      "fourCounterCode": "8B5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南充王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0817-3337300",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.787035,
+        "lng": 106.106796,
+        "area": "",
+        "province": "四川省",
+        "city": "南充市",
+        "county": "高坪区",
+        "address": "四川省南充市四川省南充市高坪区江东中路5段王府井购物中心一楼"
+      },
+      "position": [
+        106.106796,
+        30.787035
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OH0",
+      "fourCounterCode": "OH0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京德基",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-86777110",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.04372,
+        "lng": 118.784554,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "玄武区",
+        "address": "中山路18号德基广场负一楼B121YSL 圣罗兰柜台"
+      },
+      "position": [
+        118.784554,
+        32.04372
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "XI5",
+      "fourCounterCode": "XI5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京河西金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-57793532",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.023232,
+        "lng": 118.740372,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "建邺区",
+        "address": "应天大街888号河西金鹰世界"
+      },
+      "position": [
+        118.740372,
+        32.023232
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "4E5",
+      "fourCounterCode": "4E5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京IFC",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-86631283",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.994274,
+        "lng": 118.721947,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "建邺区",
+        "address": "江苏省南京市建邺区江东中路 345 号国金中心商场地下一层(LG1)¶"
+      },
+      "position": [
+        118.721947,
+        31.994274
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YO0",
+      "fourCounterCode": "YO0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-57795201",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.040508,
+        "lng": 118.763649,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "建邺区",
+        "address": "汉中路89号金鹰商场A座一楼圣罗兰专柜"
+      },
+      "position": [
+        118.763649,
+        32.040508
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "FV0",
+      "fourCounterCode": "FV0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京景枫",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.930019,
+        "lng": 118.82,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "江宁区",
+        "address": "江苏省南京市江宁区百家湖景枫中心1楼YSL圣罗兰"
+      },
+      "position": [
+        118.82,
+        31.930019
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y15",
+      "fourCounterCode": "Y15",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京万象天地",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-57027970",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.016762,
+        "lng": 118.779716,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "秦淮区",
+        "address": "江苏省南京市秦淮区中山南路666号南京万象天地第1层第L126a、127号商铺"
+      },
+      "position": [
+        118.779716,
+        32.016762
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LC0",
+      "fourCounterCode": "LC0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京新百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-57672821",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.046623,
+        "lng": 118.790855,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "秦淮区",
+        "address": "中山南路1 号1楼"
+      },
+      "position": [
+        118.790855,
+        32.046623
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YI0",
+      "fourCounterCode": "YI0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南京中央",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "025-57798521",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.047558,
+        "lng": 118.785828,
+        "area": "",
+        "province": "江苏省",
+        "city": "南京市",
+        "county": "秦淮区",
+        "address": "中山南路79号中央商场1层化妆品YSL圣罗兰柜台"
+      },
+      "position": [
+        118.785828,
+        32.047558
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YJ0",
+      "fourCounterCode": "YJ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南宁百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0771-5630636",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.81501,
+        "lng": 108.322006,
+        "area": "",
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "county": "青秀区",
+        "address": "青云街18号悦荟广场百盛一楼圣罗兰专柜"
+      },
+      "position": [
+        108.322006,
+        22.81501
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "FC5",
+      "fourCounterCode": "FC5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南宁万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0771-5623589",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.811806,
+        "lng": 108.392792,
+        "area": "",
+        "province": "广西壮族自治区",
+        "city": "南宁市",
+        "county": "青秀区",
+        "address": "民族大道136号南宁华润中心万象城B1层B116号"
+      },
+      "position": [
+        108.392792,
+        22.811806
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YR5",
+      "fourCounterCode": "YR5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "南通文峰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0513-89125253",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.01527,
+        "lng": 120.866142,
+        "area": "",
+        "province": "江苏省",
+        "city": "南通市",
+        "county": "崇川区",
+        "address": "南大街3-21号南通大世界"
+      },
+      "position": [
+        120.866142,
+        32.01527
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YD5",
+      "fourCounterCode": "YD5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "宁波阪急",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0574-28803575",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.861197,
+        "lng": 121.614182,
+        "area": "",
+        "province": "浙江省",
+        "city": "宁波市",
+        "county": "鄞州区",
+        "address": "海晏北路189号阪急百货2F 287铺位"
+      },
+      "position": [
+        121.614182,
+        29.861197
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YF0",
+      "fourCounterCode": "YF0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "宁波天一银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0574-87236930",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.87104,
+        "lng": 121.555313,
+        "area": "",
+        "province": "浙江省",
+        "city": "宁波市",
+        "county": "海曙区",
+        "address": "中山东路188号天一银泰店一楼圣罗兰柜台"
+      },
+      "position": [
+        121.555313,
+        29.87104
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "8N5",
+      "fourCounterCode": "8N5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "秦皇岛茂业天地",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0335-8901098",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.90799,
+        "lng": 119.547234,
+        "area": "",
+        "province": "河北省",
+        "city": "秦皇岛市",
+        "county": "海港区",
+        "address": "河北省秦皇岛市海港区河北大街西段368号茂业天地LG层YSL"
+      },
+      "position": [
+        119.547234,
+        39.90799
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YY0",
+      "fourCounterCode": "YY0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "青岛海信",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0532-66788583",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.060219,
+        "lng": 120.395538,
+        "area": "",
+        "province": "山东省",
+        "city": "青岛市",
+        "county": "市南区",
+        "address": "澳门路117号海信广场1层圣罗兰专柜"
+      },
+      "position": [
+        120.395538,
+        36.060219
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O40",
+      "fourCounterCode": "O40",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "青岛啤酒城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0532-55716757",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.094509,
+        "lng": 120.465988,
+        "area": "",
+        "province": "山东省",
+        "city": "青岛市",
+        "county": "崂山区",
+        "address": "香港东路195号乙金狮广场一楼百盛圣罗兰"
+      },
+      "position": [
+        120.465988,
+        36.094509
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YF5",
+      "fourCounterCode": "YF5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "青岛万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0532-85739506",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.066952,
+        "lng": 120.377602,
+        "area": "",
+        "province": "山东省",
+        "city": "青岛市",
+        "county": "市南区",
+        "address": "山东路10号万象城"
+      },
+      "position": [
+        120.377602,
+        36.066952
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YI5",
+      "fourCounterCode": "YI5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "泉州中骏城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0595-28974051",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 24.920404,
+        "lng": 118.659027,
+        "area": "",
+        "province": "福建省",
+        "city": "泉州市",
+        "county": "丰泽区",
+        "address": "城东街道安吉南路69号中骏世界城B2楼"
+      },
+      "position": [
+        118.659027,
+        24.920404
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OE0",
+      "fourCounterCode": "OE0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海八佰伴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-20559383",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.22784,
+        "lng": 121.517113,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "浦东新区",
+        "address": "张杨路501号圣罗兰"
+      },
+      "position": [
+        121.517113,
+        31.22784
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y40",
+      "fourCounterCode": "Y40",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海淮海百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-33632760",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.217552,
+        "lng": 121.459251,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "黄浦区",
+        "address": "淮海中路918号"
+      },
+      "position": [
+        121.459251,
+        31.217552
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OX0",
+      "fourCounterCode": "OX0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海IFC",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-50770160",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.243036,
+        "lng": 121.508347,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "浦东新区",
+        "address": "浦东世纪大道8号国金中心D座地下二层LG2-32 YSL"
+      },
+      "position": [
+        121.508347,
+        31.243036
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "E55",
+      "fourCounterCode": "E55",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海久光",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-54387690",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.223972,
+        "lng": 121.446198,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "静安区",
+        "address": "南京西路1618号"
+      },
+      "position": [
+        121.446198,
+        31.223972
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y00",
+      "fourCounterCode": "Y00",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海梅陇镇伊势丹",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.22863,
+        "lng": 121.456787,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "静安区",
+        "address": "南京西路1038号1楼YSL柜台"
+      },
+      "position": [
+        121.456787,
+        31.22863
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "0K5",
+      "fourCounterCode": "0K5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海南翔印象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-69150182",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.290932,
+        "lng": 121.308098,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "嘉定区",
+        "address": "上海市嘉定区南翔镇陈翔公路2299号01-03A"
+      },
+      "position": [
+        121.308098,
+        31.290932
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YO5",
+      "fourCounterCode": "YO5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海芮欧",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.22274,
+        "lng": 121.446388,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "静安区",
+        "address": "中国上海市上海市上海市静安区南京西路1601号B1"
+      },
+      "position": [
+        121.446388,
+        31.22274
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OU0",
+      "fourCounterCode": "OU0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海市百一店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-63330379",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.241926,
+        "lng": 121.480804,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "黄浦区",
+        "address": "南京东路830号1楼A馆YSL柜台"
+      },
+      "position": [
+        121.480804,
+        31.241926
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "7K5",
+      "fourCounterCode": "7K5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海新世界",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-63296956",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.234776,
+        "lng": 121.473801,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "黄浦区",
+        "address": "上海市黄浦区南京西路2-68号F1-C026"
+      },
+      "position": [
+        121.473801,
+        31.234776
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OL0",
+      "fourCounterCode": "OL0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海新世界大丸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-53862197",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.238346,
+        "lng": 121.485466,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "黄浦区",
+        "address": "南京东路228号1楼YSL柜台"
+      },
+      "position": [
+        121.485466,
+        31.238346
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "5E5",
+      "fourCounterCode": "5E5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "上海兴业太古汇",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "021-52300030",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.230696,
+        "lng": 121.462494,
+        "area": "",
+        "province": "上海",
+        "city": "上海市",
+        "county": "静安区",
+        "address": "上海市静安区石门一路288号LG165室 YSL专柜"
+      },
+      "position": [
+        121.462494,
+        31.230696
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YU5",
+      "fourCounterCode": "YU5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "绍兴银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0575-87365073",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.985476,
+        "lng": 120.579674,
+        "area": "",
+        "province": "浙江省",
+        "city": "绍兴市",
+        "county": "越城区",
+        "address": "解放南路777号绍兴银泰城"
+      },
+      "position": [
+        120.579674,
+        29.985476
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LS0",
+      "fourCounterCode": "LS0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳coco park",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-82770684",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.538624,
+        "lng": 114.061417,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "福田区",
+        "address": "福华三路269号星河Cocopark L1-038号铺位"
+      },
+      "position": [
+        114.061417,
+        22.538624
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LK0",
+      "fourCounterCode": "LK0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳海岸城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-86703626",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.52276,
+        "lng": 113.941895,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "南山区",
+        "address": "粤海街道文心五路33号海岸城购物中心二层218-219号铺 YSL圣罗兰"
+      },
+      "position": [
+        113.941895,
+        22.52276
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OJ0",
+      "fourCounterCode": "OJ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳海雅缤纷城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-23010819",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.558571,
+        "lng": 113.90583,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "宝安区",
+        "address": "建安一路99号海雅缤纷城一楼L185圣罗兰专柜"
+      },
+      "position": [
+        113.90583,
+        22.558571
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YX5",
+      "fourCounterCode": "YX5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳龙华壹方城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-21014021",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.64333,
+        "lng": 114.030937,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "龙华区",
+        "address": "龙华街道景龙社区龙华大道3639号壹成中心花园三区D栋壹方天地C区L1-009号商铺 YSL圣罗兰"
+      },
+      "position": [
+        114.030937,
+        22.64333
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y85",
+      "fourCounterCode": "Y85",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳罗湖万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-25123625",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.539305,
+        "lng": 114.111145,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "罗湖区",
+        "address": "宝安南路1881号万象城一期B1层B69号YSL圣罗兰店铺"
+      },
+      "position": [
+        114.111145,
+        22.539305
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YZ0",
+      "fourCounterCode": "YZ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳茂业",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-23603983",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.545536,
+        "lng": 114.086243,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "福田区",
+        "address": "华强北2009号一楼圣罗兰专柜"
+      },
+      "position": [
+        114.086243,
+        22.545536
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LQ0",
+      "fourCounterCode": "LQ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳壹方城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-23056039",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.558657,
+        "lng": 113.894096,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "宝安区",
+        "address": "壹方城购物中心1楼L027号圣罗兰店"
+      },
+      "position": [
+        113.894096,
+        22.558657
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "A15",
+      "fourCounterCode": "A15",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳益田",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-86725236",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.537117,
+        "lng": 113.976158,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "南山区",
+        "address": "沙河街道益田假日广场B1-45号店铺"
+      },
+      "position": [
+        113.976158,
+        22.537117
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YB5",
+      "fourCounterCode": "YB5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "深圳卓悦中心",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0755-82519481",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 22.536102,
+        "lng": 114.064796,
+        "area": "",
+        "province": "广东省",
+        "city": "深圳市",
+        "county": "福田区",
+        "address": "福田街道岗厦社区福华路348号卓悦中心1栋L层L101A YSL圣罗兰"
+      },
+      "position": [
+        114.064796,
+        22.536102
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "MV5",
+      "fourCounterCode": "MV5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "沈阳万象城",
+        "businessHoursStart": "10:00",
+        "businessHoursEnd": "22:00",
+        "telephone": "024",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 41.777879,
+        "lng": 123.433929,
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "address": "辽宁省沈阳市和平区青年大街288号"
+      },
+      "position": [
+        123.433929,
+        41.777879
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YE0",
+      "fourCounterCode": "YE0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "沈阳新玛特",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "024-82394277",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 41.80204,
+        "lng": 123.466026,
+        "area": "",
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "county": "大东区",
+        "address": "小东路1号"
+      },
+      "position": [
+        123.466026,
+        41.80204
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y60",
+      "fourCounterCode": "Y60",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "沈阳中兴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "024-31500541",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 41.793297,
+        "lng": 123.399208,
+        "area": "",
+        "province": "辽宁省",
+        "city": "沈阳市",
+        "county": "和平区",
+        "address": "太原北街86号"
+      },
+      "position": [
+        123.399208,
+        41.793297
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O50",
+      "fourCounterCode": "O50",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "石家庄北国",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0311-89806601",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 38.043037,
+        "lng": 114.511307,
+        "area": "",
+        "province": "河北省",
+        "city": "石家庄市",
+        "county": "桥西区",
+        "address": "中山东路188号北国商城一楼圣罗兰"
+      },
+      "position": [
+        114.511307,
+        38.043037
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "H65",
+      "fourCounterCode": "H65",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "石家庄新百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0311-86272632",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 38.044292,
+        "lng": 114.478088,
+        "area": "",
+        "province": "河北省",
+        "city": "石家庄市",
+        "county": "桥西区",
+        "address": "中山西路139号新百广场"
+      },
+      "position": [
+        114.478088,
+        38.044292
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O70",
+      "fourCounterCode": "O70",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "苏州泰华",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0512-67078763",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.290079,
+        "lng": 120.625168,
+        "area": "",
+        "province": "江苏省",
+        "city": "苏州市",
+        "county": "姑苏区",
+        "address": "苏州人民路372号泰华东楼1楼"
+      },
+      "position": [
+        120.625168,
+        31.290079
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "2X5",
+      "fourCounterCode": "2X5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "宿迁金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0527-88856087",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 33.955254,
+        "lng": 118.29113,
+        "area": "",
+        "province": "江苏省",
+        "city": "宿迁市",
+        "county": "宿城区",
+        "address": "江苏省宿迁市宿城区青年路2号金鹰国际购物中心 一楼 YSL 圣罗兰专柜"
+      },
+      "position": [
+        118.29113,
+        33.955254
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YP0",
+      "fourCounterCode": "YP0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "太原王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0351-7887102",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 37.82373,
+        "lng": 112.559731,
+        "area": "",
+        "province": "山西省",
+        "city": "太原市",
+        "county": "小店区",
+        "address": "亲贤街99号王府井百货1层圣罗兰专柜"
+      },
+      "position": [
+        112.559731,
+        37.82373
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "645",
+      "fourCounterCode": "645",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "泰州金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0523-86133368",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.497139,
+        "lng": 119.927071,
+        "area": "",
+        "province": "江苏省",
+        "city": "泰州市",
+        "county": "海陵区",
+        "address": "城北街道东进东路18号泰州金鹰¶"
+      },
+      "position": [
+        119.927071,
+        32.497139
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "9T5",
+      "fourCounterCode": "9T5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "唐山百货",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.626183,
+        "lng": 118.179916,
+        "area": "",
+        "province": "河北省",
+        "city": "唐山市",
+        "county": "路北区",
+        "address": "河北省唐山市路北区新华东道125号唐山百货大楼一层圣罗兰专柜"
+      },
+      "position": [
+        118.179916,
+        39.626183
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OW0",
+      "fourCounterCode": "OW0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "天津大悦城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "022-58329695",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.14201,
+        "lng": 117.186348,
+        "area": "",
+        "province": "天津",
+        "city": "天津市",
+        "county": "南开区",
+        "address": "南门外大街2号天津大悦城中心北区1层76号商铺"
+      },
+      "position": [
+        117.186348,
+        39.14201
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "8H5",
+      "fourCounterCode": "8H5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "天津国金汇",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "022-27821374",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.119053,
+        "lng": 117.197456,
+        "area": "",
+        "province": "天津",
+        "city": "天津市",
+        "county": "和平区",
+        "address": "南京路108号现代城伊势丹商场1层圣罗兰柜台"
+      },
+      "position": [
+        117.197456,
+        39.119053
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "AV5",
+      "fourCounterCode": "AV5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "天津海信",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "022-23112797",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.117722,
+        "lng": 117.218094,
+        "area": "",
+        "province": "天津",
+        "city": "天津市",
+        "county": "和平区",
+        "address": "解放北路188号"
+      },
+      "position": [
+        117.218094,
+        39.117722
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YL5",
+      "fourCounterCode": "YL5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "天津仁恒伊势丹",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "022-27250907",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 39.137829,
+        "lng": 117.191055,
+        "area": "",
+        "province": "天津",
+        "city": "天津市",
+        "county": "南开区",
+        "address": "东马路仁恒置地广场一期1F, L1-29铺位"
+      },
+      "position": [
+        117.191055,
+        39.137829
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "QT0",
+      "fourCounterCode": "QT0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "潍坊银座",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.705013,
+        "lng": 119.155937,
+        "area": "",
+        "province": "山东省",
+        "city": "潍坊市",
+        "county": "奎文区",
+        "address": "山东省潍坊市奎文区胜利东街4000号潍坊银座商城"
+      },
+      "position": [
+        119.155937,
+        36.705013
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "825",
+      "fourCounterCode": "825",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "潍坊中百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0536-2244222",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.70813,
+        "lng": 119.105827,
+        "area": "",
+        "province": "山东省",
+        "city": "潍坊市",
+        "county": "潍城区",
+        "address": "山东省潍坊市潍城区胜利西街233号中百大厦"
+      },
+      "position": [
+        119.105827,
+        36.70813
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YY5",
+      "fourCounterCode": "YY5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "温岭银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0576-86781358",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.392584,
+        "lng": 121.361679,
+        "area": "",
+        "province": "浙江省",
+        "city": "台州市",
+        "county": "温岭市",
+        "address": "城西街道中华路728号"
+      },
+      "position": [
+        121.361679,
+        28.392584
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y50",
+      "fourCounterCode": "Y50",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "温州银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0577-88008108",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.00666,
+        "lng": 120.664612,
+        "area": "",
+        "province": "浙江省",
+        "city": "温州市",
+        "county": "鹿城区",
+        "address": "银泰百货一楼圣罗兰 柜台"
+      },
+      "position": [
+        120.664612,
+        28.00666
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "TY0",
+      "fourCounterCode": "TY0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "温州印象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0577-88890535",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 27.98419,
+        "lng": 120.700455,
+        "area": "",
+        "province": "浙江省",
+        "city": "温州市",
+        "county": "鹿城区",
+        "address": "南汇街道府东路333号温印商业中心负一楼收货区"
+      },
+      "position": [
+        120.700455,
+        27.98419
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "E25",
+      "fourCounterCode": "E25",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "乌鲁木齐汇嘉",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0991-3330375",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.876163,
+        "lng": 87.556801,
+        "area": "",
+        "province": "新疆维吾尔自治区",
+        "city": "乌鲁木齐市",
+        "county": "新市区",
+        "address": "北京中路147号汇嘉购物中心一层化妆品区圣罗兰专柜"
+      },
+      "position": [
+        87.556801,
+        43.876163
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y25",
+      "fourCounterCode": "Y25",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "乌鲁木齐美美1",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0991-4823303",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.82016,
+        "lng": 87.588242,
+        "area": "",
+        "province": "新疆维吾尔自治区",
+        "city": "乌鲁木齐市",
+        "county": "沙依巴克区",
+        "address": "友好北路689号"
+      },
+      "position": [
+        87.588242,
+        43.82016
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LA0",
+      "fourCounterCode": "LA0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "乌鲁木齐美美2",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0991-4845262",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.826401,
+        "lng": 87.594589,
+        "area": "",
+        "province": "新疆维吾尔自治区",
+        "city": "乌鲁木齐市",
+        "county": "沙依巴克区",
+        "address": "友好北路688号美美2一楼 圣罗兰"
+      },
+      "position": [
+        87.594589,
+        43.826401
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "0L5",
+      "fourCounterCode": "0L5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "乌鲁木齐美美三",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0991-3742363",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 43.480064,
+        "lng": 87.416168,
+        "area": "",
+        "province": "新疆维吾尔自治区",
+        "city": "乌鲁木齐市",
+        "county": "乌鲁木齐县",
+        "address": "新疆乌鲁木齐高新区西环北路989号商业楼MM3购物中心"
+      },
+      "position": [
+        87.416168,
+        43.480064
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "7M5",
+      "fourCounterCode": "7M5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "芜湖八佰伴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0553-5651878",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.340366,
+        "lng": 118.366348,
+        "area": "",
+        "province": "安徽省",
+        "city": "芜湖市",
+        "county": "镜湖区",
+        "address": "安徽省芜湖市镜湖区中山北路 八佰伴F1层¶"
+      },
+      "position": [
+        118.366348,
+        31.340366
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "ZO5",
+      "fourCounterCode": "ZO5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "无锡八佰伴",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0510-85188323",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.571974,
+        "lng": 120.302605,
+        "area": "",
+        "province": "江苏省",
+        "city": "无锡市",
+        "county": "梁溪区",
+        "address": "无锡市梁溪区中山路168号无锡八佰伴中山路店"
+      },
+      "position": [
+        120.302605,
+        31.571974
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LN0",
+      "fourCounterCode": "LN0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "无锡商业大厦",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0510-88585827",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.577797,
+        "lng": 120.309128,
+        "area": "",
+        "province": "江苏省",
+        "city": "无锡市",
+        "county": "梁溪区",
+        "address": "中山路343号大东方百货 A座1楼圣罗兰ysl"
+      },
+      "position": [
+        120.309128,
+        31.577797
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y35",
+      "fourCounterCode": "Y35",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武汉梦时代",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "027-03409913",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.529207,
+        "lng": 114.343079,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "武昌区",
+        "address": "武珞路628号YSL圣罗兰美妆"
+      },
+      "position": [
+        114.343079,
+        30.529207
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OA0",
+      "fourCounterCode": "OA0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武汉群光",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "027-87205775",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.525681,
+        "lng": 114.355347,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "洪山区",
+        "address": "珞珈路6号群光广场一楼YSL圣罗兰专柜"
+      },
+      "position": [
+        114.355347,
+        30.525681
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "QN0",
+      "fourCounterCode": "QN0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武汉SKP",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.546928,
+        "lng": 114.342827,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "武昌区",
+        "address": "湖北省武汉市武昌区水果湖街道水果湖横路3号"
+      },
+      "position": [
+        114.342827,
+        30.546928
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "ZP5",
+      "fourCounterCode": "ZP5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武汉万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "027-83937626",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.59985,
+        "lng": 114.279961,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "江岸区",
+        "address": "武汉市江岸区建设大道668号华润万象城B127号圣罗兰专柜"
+      },
+      "position": [
+        114.279961,
+        30.59985
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YD0",
+      "fourCounterCode": "YD0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武商1店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "027-85719066",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.580521,
+        "lng": 114.269371,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "江汉区",
+        "address": "解放大道688号武商广场1楼YSL圣罗兰专柜1柜（岛柜）"
+      },
+      "position": [
+        114.269371,
+        30.580521
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LD0",
+      "fourCounterCode": "LD0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "武商2店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "027-85773566",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.580521,
+        "lng": 114.269371,
+        "area": "",
+        "province": "湖北省",
+        "city": "武汉市",
+        "county": "江汉区",
+        "address": "解放大道688号武商广场1楼YSL圣罗兰专柜2柜（边柜）"
+      },
+      "position": [
+        114.269371,
+        30.580521
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "BA5",
+      "fourCounterCode": "BA5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西安大融城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "029-89249018",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.344517,
+        "lng": 108.955414,
+        "area": "",
+        "province": "陕西省",
+        "city": "西安市",
+        "county": "经开区",
+        "address": "凤城七路51号 西安大融城一层化妆品区圣罗兰专柜"
+      },
+      "position": [
+        108.955414,
+        34.344517
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "BV5",
+      "fourCounterCode": "BV5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西安金鹰高新店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "029-88740299",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.238865,
+        "lng": 108.90844,
+        "area": "",
+        "province": "陕西省",
+        "city": "西安市",
+        "county": "雁塔区",
+        "address": "科技路37号"
+      },
+      "position": [
+        108.90844,
+        34.238865
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y90",
+      "fourCounterCode": "Y90",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西安开元",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "029-87211210",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.25914,
+        "lng": 108.966431,
+        "area": "",
+        "province": "陕西省",
+        "city": "西安市",
+        "county": "碑林区",
+        "address": "钟楼开元商城1层YSL柜台"
+      },
+      "position": [
+        108.966431,
+        34.25914
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LE0",
+      "fourCounterCode": "LE0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西安赛格",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "029-89329584",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.229572,
+        "lng": 108.954582,
+        "area": "",
+        "province": "陕西省",
+        "city": "西安市",
+        "county": "雁塔区",
+        "address": "长安中路小寨赛格国际购物中心1楼圣罗兰专柜"
+      },
+      "position": [
+        108.954582,
+        34.229572
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OZ0",
+      "fourCounterCode": "OZ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西安SKP",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "029-83699622",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.25383,
+        "lng": 108.955177,
+        "area": "",
+        "province": "陕西省",
+        "city": "西安市",
+        "county": "碑林区",
+        "address": "长安北路261号"
+      },
+      "position": [
+        108.955177,
+        34.25383
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "EU5",
+      "fourCounterCode": "EU5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西宁大象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0971-4111089",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.640373,
+        "lng": 101.715477,
+        "area": "",
+        "province": "青海省",
+        "city": "西宁市",
+        "county": "城西区",
+        "address": "五四西路68号王府井大象城旗舰店 圣罗兰专柜"
+      },
+      "position": [
+        101.715477,
+        36.640373
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O90",
+      "fourCounterCode": "O90",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "西宁王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0971-3626187",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.621143,
+        "lng": 101.777267,
+        "area": "",
+        "province": "青海省",
+        "city": "西宁市",
+        "county": "城中区",
+        "address": "西大街40号西宁王府井1F圣罗兰专柜"
+      },
+      "position": [
+        101.777267,
+        36.621143
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "665",
+      "fourCounterCode": "665",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "厦门宝龙",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0592-2089173",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 24.485708,
+        "lng": 118.172745,
+        "area": "",
+        "province": "福建省",
+        "city": "厦门市",
+        "county": "思明区",
+        "address": "厦门市思明区金山路1号宝龙一城LG层048铺位号YSL店铺"
+      },
+      "position": [
+        118.172745,
+        24.485708
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "DU5",
+      "fourCounterCode": "DU5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "厦门SM",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0592-5779501",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 24.500977,
+        "lng": 118.12674,
+        "area": "",
+        "province": "福建省",
+        "city": "厦门市",
+        "county": "湖里区",
+        "address": "嘉禾路468号SM城市广场300G#"
+      },
+      "position": [
+        118.12674,
+        24.500977
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YV5",
+      "fourCounterCode": "YV5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "厦门万象城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0592-5779505",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 24.473154,
+        "lng": 118.111641,
+        "area": "",
+        "province": "福建省",
+        "city": "厦门市",
+        "county": "思明区",
+        "address": "湖滨东路99号万象城负一楼131号YSL圣罗兰"
+      },
+      "position": [
+        118.111641,
+        24.473154
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "C15",
+      "fourCounterCode": "C15",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "萧山银隆",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0571-86015379",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.177313,
+        "lng": 120.274826,
+        "area": "",
+        "province": "浙江省",
+        "city": "杭州市",
+        "county": "萧山区",
+        "address": "市心中路268号"
+      },
+      "position": [
+        120.274826,
+        30.177313
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "385",
+      "fourCounterCode": "385",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "新乡胖东来",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0373-3761266",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 35.301552,
+        "lng": 113.878967,
+        "area": "",
+        "province": "河南省",
+        "city": "新乡市",
+        "county": "红旗区",
+        "address": "新乡市人民中路199号"
+      },
+      "position": [
+        113.878967,
+        35.301552
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "O60",
+      "fourCounterCode": "O60",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "徐州金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0516-83721897",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.2668,
+        "lng": 117.185837,
+        "area": "",
+        "province": "江苏省",
+        "city": "徐州市",
+        "county": "鼓楼区",
+        "address": "中山北路2号"
+      },
+      "position": [
+        117.185837,
+        34.2668
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OF0",
+      "fourCounterCode": "OF0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "烟台振华",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0535-6589173",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 37.54184,
+        "lng": 121.385033,
+        "area": "",
+        "province": "山东省",
+        "city": "烟台市",
+        "county": "芝罘区",
+        "address": "西大街8号振华商厦  一层化妆品 圣罗兰专柜"
+      },
+      "position": [
+        121.385033,
+        37.54184
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LJ0",
+      "fourCounterCode": "LJ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "盐城金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0515-88318606",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 33.387375,
+        "lng": 120.136749,
+        "area": "",
+        "province": "江苏省",
+        "city": "盐城市",
+        "county": "亭湖区",
+        "address": "建军中路169号金鹰购物中心一楼"
+      },
+      "position": [
+        120.136749,
+        33.387375
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "3D5",
+      "fourCounterCode": "3D5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "扬州金鹰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0514-87801746",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 32.39381,
+        "lng": 119.43277,
+        "area": "",
+        "province": "江苏省",
+        "city": "扬州市",
+        "county": "广陵区",
+        "address": "江苏省扬州市广陵区汶河南路120号扬州金鹰国际购物中心一楼圣罗兰"
+      },
+      "position": [
+        119.43277,
+        32.39381
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LL0",
+      "fourCounterCode": "LL0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "宜昌国贸",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0717-6596266",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 30.708048,
+        "lng": 111.302902,
+        "area": "",
+        "province": "湖北省",
+        "city": "宜昌市",
+        "county": "西陵区",
+        "address": "东山大道106号国贸大厦一楼圣罗兰专柜"
+      },
+      "position": [
+        111.302902,
+        30.708048
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "XD5",
+      "fourCounterCode": "XD5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "义乌银泰",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0579-85383769",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 29.308043,
+        "lng": 120.074646,
+        "area": "",
+        "province": "浙江省",
+        "city": "金华市",
+        "county": "义乌市",
+        "address": "稠城工人西路15号"
+      },
+      "position": [
+        120.074646,
+        29.308043
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "4C5",
+      "fourCounterCode": "4C5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "银川新百",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0951-8103506",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 38.461479,
+        "lng": 106.280327,
+        "area": "",
+        "province": "宁夏回族自治区",
+        "city": "银川市",
+        "county": "兴庆区",
+        "address": "宁夏回族自治区银川市兴庆区新华东街97号，新华百货圣罗兰专柜¶"
+      },
+      "position": [
+        106.280327,
+        38.461479
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "185",
+      "fourCounterCode": "185",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "张家港曼巴特",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0512-56322319",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 31.860842,
+        "lng": 120.545357,
+        "area": "",
+        "province": "江苏省",
+        "city": "苏州市",
+        "county": "张家港市",
+        "address": "江苏省苏州市张家港市河西路88号曼巴特购物广场"
+      },
+      "position": [
+        120.545357,
+        31.860842
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "Y95",
+      "fourCounterCode": "Y95",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙大悦城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-84633506",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.237171,
+        "lng": 112.97805,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "开福区",
+        "address": "新河街道北辰三角洲大悦城购物中心1F-06号商铺"
+      },
+      "position": [
+        112.97805,
+        28.237171
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OB0",
+      "fourCounterCode": "OB0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙海信",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-84780656",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.17704,
+        "lng": 112.969933,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "天心区",
+        "address": "湘江中路2段36号海信广场1楼圣罗兰专柜"
+      },
+      "position": [
+        112.969933,
+        28.17704
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "OY0",
+      "fourCounterCode": "OY0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙IFS百盛",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-85207027",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.197357,
+        "lng": 112.986443,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "芙蓉区",
+        "address": "解放西路270号长沙国金中心第一层L158  YSL圣罗兰专柜"
+      },
+      "position": [
+        112.986443,
+        28.197357
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YA0",
+      "fourCounterCode": "YA0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙平和堂",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-89842236",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.192751,
+        "lng": 112.975777,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "开福区",
+        "address": "黄兴中路88号平和堂商贸大厦1楼圣罗兰专柜"
+      },
+      "position": [
+        112.975777,
+        28.192751
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "MZ5",
+      "fourCounterCode": "MZ5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙万家丽",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-85585217",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.190516,
+        "lng": 113.03183,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "芙蓉区",
+        "address": "万家丽国际mall一楼YSL圣罗兰"
+      },
+      "position": [
+        113.03183,
+        28.190516
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "TZ0",
+      "fourCounterCode": "TZ0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙王府井",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-85656525",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.19289,
+        "lng": 112.975731,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "天心区",
+        "address": "黄兴中路27号王府井百货一楼化妆品圣罗兰"
+      },
+      "position": [
+        112.975731,
+        28.19289
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "XF5",
+      "fourCounterCode": "XF5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "长沙星城步步高",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0731-82235828",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 28.11178,
+        "lng": 113.017471,
+        "area": "",
+        "province": "湖南省",
+        "city": "长沙市",
+        "county": "雨花区",
+        "address": "井湾子街道湘府东路二段398号步步高星城购物中心"
+      },
+      "position": [
+        113.017471,
+        28.11178
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YE5",
+      "fourCounterCode": "YE5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "郑州大卫城2店",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0371-55612617",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.757126,
+        "lng": 113.666046,
+        "area": "",
+        "province": "河南省",
+        "city": "郑州市",
+        "county": "金水区",
+        "address": "北二七路丹尼斯大卫城一层圣罗兰"
+      },
+      "position": [
+        113.666046,
+        34.757126
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YM0",
+      "fourCounterCode": "YM0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "郑州丹尼斯",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0371-66228883",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.757389,
+        "lng": 113.674004,
+        "area": "",
+        "province": "河南省",
+        "city": "郑州市",
+        "county": "金水区",
+        "address": "人民路2号丹尼斯百货一楼圣罗兰"
+      },
+      "position": [
+        113.674004,
+        34.757389
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YH0",
+      "fourCounterCode": "YH0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "郑州丹尼斯大卫城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0371-56150185",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.758156,
+        "lng": 113.666336,
+        "area": "",
+        "province": "河南省",
+        "city": "郑州市",
+        "county": "金水区",
+        "address": "河南省郑州市金水区二七路丹尼斯大卫城2楼YSL美妆"
+      },
+      "position": [
+        113.666336,
+        34.758156
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "LF0",
+      "fourCounterCode": "LF0",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "郑州正弘城",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0371-61656568",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.802216,
+        "lng": 113.686432,
+        "area": "",
+        "province": "河南省",
+        "city": "郑州市",
+        "county": "金水区",
+        "address": "东风路与花园路交叉口西南角郑州正弘城一楼圣罗兰专柜"
+      },
+      "position": [
+        113.686432,
+        34.802216
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YM5",
+      "fourCounterCode": "YM5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "郑州正弘汇",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0371-6329 8065",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 34.797592,
+        "lng": 113.568474,
+        "area": "",
+        "province": "河南省",
+        "city": "郑州市",
+        "county": "中原区",
+        "address": "河南省郑州市高新区瑞达路138号郑州正弘汇"
+      },
+      "position": [
+        113.568474,
+        34.797592
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    },
+    {
+      "id": "YW5",
+      "fourCounterCode": "YW5",
+      "storeAttribute": "精品店",
+      "putaway": true,
+      "recommend": false,
+      "distance": 0.0,
+      "detailInfo": {
+        "name": "淄博银座",
+        "businessHoursStart": "",
+        "businessHoursEnd": "",
+        "telephone": "0533-2185906",
+        "type": "DIRECT_SALE"
+      },
+      "address": {
+        "lat": 36.806259,
+        "lng": 118.050217,
+        "area": "",
+        "province": "山东省",
+        "city": "淄博市",
+        "county": "张店区",
+        "address": "山东省淄博市张店区柳泉路128号银座商城1楼YSL专柜"
+      },
+      "position": [
+        118.050217,
+        36.806259
+      ],
+      "lbsRecommend": true,
+      "hidden": false,
+      "reservation": [],
+      "reservationNames": [],
+      "deleted": false
+    }
+  ]
